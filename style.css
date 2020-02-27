@@ -42,7 +42,7 @@ body {
   margin: 0;
 }
 
-#title img {
+#title img, #shots img {
   justify-content: flex-start;
   align-items: center;
   width: 50vh;
@@ -52,4 +52,6 @@ body {
   font-family: Futura;
   font-style: italic;
   color: #FEFACA;
+  text-align: center;
+  line-height: 80.6%;
 }
